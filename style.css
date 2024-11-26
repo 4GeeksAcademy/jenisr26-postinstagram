@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+.div1 {
+    background-color: white;
+    margin-left: 750px;
+    margin-right: 750px;
+}
+#i1{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+}
+#div2{
+    float: left;
+}
+#div3{
+    text-align: left;
+}
+img{
+    width: 400px;
+}
